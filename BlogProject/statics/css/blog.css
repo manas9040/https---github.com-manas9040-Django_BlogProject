@@ -1,0 +1,55 @@
+.content{
+  width:60%;
+  /* background: grey; */
+  float: left;
+  padding-left: 20px;
+  height: 100%;
+}
+.sidebar{
+  float:right;
+  background: #81cdde;
+  width: 40%;
+  padding-top: 0px;
+  height: 100%;
+  color: #de2a54;
+}
+.date{
+color:#1dfc19;
+font-weight: bold;
+font-style: italic;
+font-size: 15px;
+}
+body{
+  background: #b8b8b4;
+  color: yellow;
+}
+
+h1{
+  text-align: center;
+  border-bottom: 2px solid #ffc107;
+  padding-bottom: 10px;
+  font-family: 'Reggae One', cursive;
+  color: #ffd240;
+}
+a{
+  color:  #342aeb;
+}
+#ch{
+  color:cyan;
+  font-size:17px;
+  font-style: italic;
+  border-bottom: 2px solid cyan;
+}
+.cd{
+  color: grey;
+}
+#publish{
+  font-size: 50px;
+  font-weight: bold;
+  color: red;
+  font-style: italic;
+  background: yellow;
+  border-radius: 100px;
+
+
+}
